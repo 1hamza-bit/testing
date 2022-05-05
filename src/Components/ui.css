@@ -1,0 +1,35 @@
+.tabe{
+    background-color: aliceblue;
+    padding-top: 2%;
+    padding-left: 1%;
+    font-size: 22px;
+    width: 100% !important;
+    margin-left: 0px !important;
+}
+
+.handler{
+   text-decoration: underline;
+   color: blue; 
+   font-size: 15px;
+   margin-top: -5%;
+}
+
+p{
+    margin-bottom: 0rem;
+}
+
+
+.tab{
+    margin-bottom: 2% !important;
+    margin-top: 3% !important;
+
+}
+
+.tab b{
+    color: darkgray;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    color: #ffffff !important;
+    border-bottom: 2px solid white;
+}
