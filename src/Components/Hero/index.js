@@ -25,7 +25,7 @@ import {Container,Grid,Button,TextField,Modal,Box,Typography,Switch,
         return (
             <div>
                 <Carousel>
-               < Grid fullWidth style={{padding: "5%", overflow: 'hidden'}} container spacing={6}>
+               < Grid className='hero' fullWidth style={{padding: "5%", overflow: 'hidden'}} container spacing={6}>
                     <Grid item xs={6}>
                     <div className="logo">
           <h2>

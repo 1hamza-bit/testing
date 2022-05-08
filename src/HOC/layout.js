@@ -9,7 +9,7 @@ import axios from 'axios'
 import ImageList from '../Components/HEADER_FOOTER/Header_footer/ImageList';
 import UI from '../Components/ui';
 import { Form } from 'react-bootstrap';
-import Forms from '../Components/form';
+import Forms from '../Components/Form';
 
 const styles = {
   height: 300,
