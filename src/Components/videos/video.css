@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700);
+
+
 .bit
 {
   height: 100%;
@@ -8,7 +10,7 @@
 }
 .blog{
   position: relative;
-  width: 22em;
+  width: 22em !important;
   height: 30em;
   
   background: url(https://cache.desktopnexus.com/thumbseg/25/25727-bigthumbnail.jpg) no-repeat;
