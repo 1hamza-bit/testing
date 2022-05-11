@@ -14,6 +14,7 @@ import Footer from '../Footer/Footer';
 import Hero  from '../Hero/index'
 import Items from '../videos';
 import Item from '../videos/vidcard';
+import Single from '../Blog.js/single'
 
 class Task extends Component {
     constructor() {
@@ -46,7 +47,7 @@ class Task extends Component {
 
             <hr />
           
-         
+         <Single />
          <Footer />
             </div>
         );
